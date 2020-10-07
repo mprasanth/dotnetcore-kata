@@ -8,7 +8,7 @@ namespace CodeKata.Core
     {
         public static int SumParallely()
         {
-            //return 
+            return 1;
         }
     }
 }
